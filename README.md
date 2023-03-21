@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Lolu
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning web3 development
-- 💞️ I’m looking to collaborate on react/nextjs projects 
+- 👀 I’m a Software engineer solving software problems and creating solutions on the web with tools such as Javascript, Typescript , Reactjs, Nextjs, Firebase and Nodejs. 
+- 🌱 I’m currently and actively building web3 software products, working with blockchain technologies such as Solana, Ethereum and The Internet Computer. 
 - 📫 How to reach me davidebe63@gmail.com
 
 <!---
