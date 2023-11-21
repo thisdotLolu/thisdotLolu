@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lolu
-- 👀 I’m a Web and mobile Software builder building software and creating solutions with tools such as Javascript, Typescript , Reactjs, React Native, Nextjs, Firebase and Nodejs.
+- 👀 I’m building software and creating solutions with tools such as Javascript, Typescript , Reactjs, React Native, Nextjs, Firebase and Nodejs.
 - I'm currently open to collaborate on software projects.  
 - 📫 How to reach me davidebe63@gmail.com
 
