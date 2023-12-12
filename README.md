@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lolu
-- :man_technologist: Main Tools used include Nodejs,Expressjs,Nextjs,ReactNative,Reactjs.
+- :man_technologist: Main Tools used include Nodejs, Expressjs, Nextjs, ReactNative, Reactjs.
 - Open to collaborate on Javascript/Typescript-based software projects.
 - 📫 How to reach me davidebe63@gmail.com
 
