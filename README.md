@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lolu
-- :man_technologist: Main Tech used include Nextjs, ReactNative, Reactjs.
+- :man_technologist: Well Versed in building software with Nextjs, SvelteKit, ReactNative, Reactjs, Nodejs and Databases.
 - Open to collaborate on Javascript/Typescript-based software projects.
 - 📫 How to reach me davidebe63@gmail.com
 
